@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact/view/pcp</path>
+    <page_callback>CRM_Contactpcptab_Page_ContactPcpTab</page_callback>
+    <title>ContactPcpTab</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
